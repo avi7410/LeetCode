@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/avi7410/LeetCode/tree/master/0861-flipping-an-image) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/avi7410/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/avi7410/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1833-find-the-highest-altitude](https://github.com/avi7410/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/avi7410/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/avi7410/LeetCode/tree/master/0861-flipping-an-image) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/avi7410/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/avi7410/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 ## Hash Table
 |  |
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/avi7410/LeetCode/tree/master/0861-flipping-an-image) |
+## Math
+|  |
+| ------- |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/avi7410/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
