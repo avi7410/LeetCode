@@ -12,6 +12,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/avi7410/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/avi7410/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/avi7410/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avi7410/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0861-flipping-an-image](https://github.com/avi7410/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/avi7410/LeetCode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/avi7410/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avi7410/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Math
 |  |
 | ------- |
