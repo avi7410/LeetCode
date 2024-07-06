@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/avi7410/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/avi7410/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/avi7410/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/avi7410/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/avi7410/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/avi7410/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0566-reshape-the-matrix](https://github.com/avi7410/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avi7410/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/avi7410/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/avi7410/LeetCode/tree/master/0189-rotate-array) |
 | [0861-flipping-an-image](https://github.com/avi7410/LeetCode/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/avi7410/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/avi7410/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
