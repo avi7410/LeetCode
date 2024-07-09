@@ -21,6 +21,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/avi7410/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/avi7410/LeetCode/tree/master/0898-transpose-matrix) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/avi7410/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1185-find-in-mountain-array](https://github.com/avi7410/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/avi7410/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/avi7410/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avi7410/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -99,8 +100,13 @@
 | [0162-find-peak-element](https://github.com/avi7410/LeetCode/tree/master/0162-find-peak-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/avi7410/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avi7410/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/avi7410/LeetCode/tree/master/1185-find-in-mountain-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/avi7410/LeetCode/tree/master/0075-sort-colors) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/avi7410/LeetCode/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
