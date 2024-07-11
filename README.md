@@ -31,6 +31,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/avi7410/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avi7410/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/avi7410/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/avi7410/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/avi7410/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/avi7410/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1646-kth-missing-positive-number](https://github.com/avi7410/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -56,6 +57,7 @@
 | [0001-two-sum](https://github.com/avi7410/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/avi7410/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/avi7410/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/avi7410/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/avi7410/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -75,6 +77,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avi7410/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/avi7410/LeetCode/tree/master/0189-rotate-array) |
 | [0861-flipping-an-image](https://github.com/avi7410/LeetCode/tree/master/0861-flipping-an-image) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/avi7410/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,11 +126,13 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/avi7410/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avi7410/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/avi7410/LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/avi7410/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/avi7410/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/avi7410/LeetCode/tree/master/0075-sort-colors) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/avi7410/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Interactive
 |  |
 | ------- |
