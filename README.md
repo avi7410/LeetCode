@@ -27,6 +27,7 @@
 | [0861-flipping-an-image](https://github.com/avi7410/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avi7410/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/avi7410/LeetCode/tree/master/0898-transpose-matrix) |
+| [0932-monotonic-array](https://github.com/avi7410/LeetCode/tree/master/0932-monotonic-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/avi7410/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1185-find-in-mountain-array](https://github.com/avi7410/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/avi7410/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
