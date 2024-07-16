@@ -42,6 +42,7 @@
 | [1651-shuffle-string](https://github.com/avi7410/LeetCode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/avi7410/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/avi7410/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/avi7410/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/avi7410/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/avi7410/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avi7410/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -71,6 +72,7 @@
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/avi7410/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/avi7410/LeetCode/tree/master/1651-shuffle-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/avi7410/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/avi7410/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/avi7410/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/avi7410/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
