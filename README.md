@@ -70,6 +70,7 @@
 ## String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/avi7410/LeetCode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/avi7410/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/avi7410/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/avi7410/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
