@@ -17,9 +17,6 @@ class Solution {
                 h2++;
             }
         }
-        if(h1==h2){
-            return true;
-        }
-        return false;
+        return h1==h2;
     }
 }
