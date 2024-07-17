@@ -8,8 +8,6 @@ class Solution {
     }
 
     public String reverse(String str){
-        StringBuilder sb = new StringBuilder(str);
-        sb.reverse();
-        return sb.toString();
+        return new StringBuilder(str).reverse().toString();
     }
 }
