@@ -78,6 +78,7 @@
 | [0742-to-lower-case](https://github.com/avi7410/LeetCode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/avi7410/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/avi7410/LeetCode/tree/master/1651-shuffle-string) |
+| [1764-maximum-repeating-substring](https://github.com/avi7410/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/avi7410/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/avi7410/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/avi7410/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -178,4 +179,9 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/avi7410/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1764-maximum-repeating-substring](https://github.com/avi7410/LeetCode/tree/master/1764-maximum-repeating-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/avi7410/LeetCode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
