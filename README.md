@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avi7410/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/avi7410/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/avi7410/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/avi7410/LeetCode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/avi7410/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/avi7410/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/avi7410/LeetCode/tree/master/0066-plus-one) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avi7410/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/avi7410/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/avi7410/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/avi7410/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avi7410/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
