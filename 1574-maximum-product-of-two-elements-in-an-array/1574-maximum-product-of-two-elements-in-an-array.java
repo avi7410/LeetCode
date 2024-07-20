@@ -1,8 +1,8 @@
 class Solution {
     public int maxProduct(int[] nums) {
         insertion_sort(nums);
-        int n = nums.length;
-        return (nums[n-1]-1)*(nums[n-2]-1);
+        //int n = nums.length;
+        return (nums[nums.length-1]-1)*(nums[nums.length-2]-1);
     }
     public void insertion_sort(int[] arr){
         for(int i=0; i<arr.length-1; i++){
