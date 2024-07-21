@@ -155,6 +155,7 @@
 | [0268-missing-number](https://github.com/avi7410/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/avi7410/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/avi7410/LeetCode/tree/master/0441-arranging-coins) |
+| [1013-fibonacci-number](https://github.com/avi7410/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/avi7410/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/avi7410/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/avi7410/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -219,6 +220,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/avi7410/LeetCode/tree/master/1013-fibonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/avi7410/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Divide and Conquer
 |  |
@@ -233,4 +235,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/avi7410/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/avi7410/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/avi7410/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
