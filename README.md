@@ -131,6 +131,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/avi7410/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/avi7410/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avi7410/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/avi7410/LeetCode/tree/master/0645-set-mismatch) |
@@ -154,6 +155,7 @@
 | [0066-plus-one](https://github.com/avi7410/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/avi7410/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/avi7410/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/avi7410/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/avi7410/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/avi7410/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/avi7410/LeetCode/tree/master/0441-arranging-coins) |
@@ -240,6 +242,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/avi7410/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/avi7410/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
