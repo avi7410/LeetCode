@@ -61,6 +61,7 @@
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avi7410/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avi7410/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/avi7410/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avi7410/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/avi7410/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/avi7410/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/avi7410/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -182,6 +183,7 @@
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/avi7410/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/avi7410/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avi7410/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/avi7410/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/avi7410/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/avi7410/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avi7410/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Interactive
 |  |
 | ------- |
