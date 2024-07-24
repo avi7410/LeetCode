@@ -40,6 +40,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/avi7410/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/avi7410/LeetCode/tree/master/1137-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/avi7410/LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1293-three-consecutive-odds](https://github.com/avi7410/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/avi7410/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/avi7410/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avi7410/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
