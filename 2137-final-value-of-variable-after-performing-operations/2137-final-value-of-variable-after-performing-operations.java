@@ -3,11 +3,11 @@ class Solution {
         int val = 0;
         for(int i = 0; i < operations.length; i++){
             if(operations[i].equals("X++") || operations[i].equals("++X")){
-                val+=1;
+                val = val+1;
                 continue;
             }
             else{
-                val-=1;
+                val = val-1;
             }
         }
         return val;
