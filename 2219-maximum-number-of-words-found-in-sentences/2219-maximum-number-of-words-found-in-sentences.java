@@ -4,18 +4,16 @@ class Solution {
 
         for (int i = 0; i < sentences.length; i++){
             String str = sentences[i];
-            int count = 0;
-            
+            int count = 1;
+
             for(int j = 0; j < str.length(); j++){
                 if(str.charAt(j) == ' '){
                     count++;
                 }
             }
-            if(max < count){
-                max = count;
-            }
+            max = Math.max(count,max);
         }
 
-        return max+1;
+        return max;
     }
 }
