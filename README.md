@@ -70,6 +70,7 @@
 | [3194-find-words-containing-character](https://github.com/avi7410/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/avi7410/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/avi7410/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3429-special-array-i](https://github.com/avi7410/LeetCode/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/avi7410/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
