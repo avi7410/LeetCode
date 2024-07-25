@@ -3,7 +3,7 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         for(int i = 0; i < s.length(); ++i){
             if(s.charAt(i) == 'i'){
-                sb.reverse();
+                sb = sb.reverse();
             }
             else{
                 sb.append(s.charAt(i));
