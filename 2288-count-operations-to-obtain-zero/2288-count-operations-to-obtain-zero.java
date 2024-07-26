@@ -7,10 +7,12 @@ class Solution {
             return count;
         }
         if(a >= b){
-            return helper(a-b, b , ++count);
+            count += a/b;
+            return helper(a%b, b , count);
         }
         else{
-            return helper(a, b-a , ++count);
+            count += b/a;
+            return helper(a, b%a , count);
         }
     }
 }
