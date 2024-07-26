@@ -85,6 +85,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/avi7410/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/avi7410/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avi7410/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/avi7410/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2886-faulty-keyboard](https://github.com/avi7410/LeetCode/tree/master/2886-faulty-keyboard) |
 ## Hash Table
 |  |
@@ -189,6 +190,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/avi7410/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/avi7410/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/avi7410/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2288-count-operations-to-obtain-zero](https://github.com/avi7410/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/avi7410/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Greedy
 |  |
