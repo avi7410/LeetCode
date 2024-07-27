@@ -36,6 +36,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/avi7410/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/avi7410/LeetCode/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/avi7410/LeetCode/tree/master/0932-monotonic-array) |
+| [0981-delete-columns-to-make-sorted](https://github.com/avi7410/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/avi7410/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/avi7410/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/avi7410/LeetCode/tree/master/1137-height-checker) |
@@ -111,6 +112,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/avi7410/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/avi7410/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/avi7410/LeetCode/tree/master/0742-to-lower-case) |
+| [0981-delete-columns-to-make-sorted](https://github.com/avi7410/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1205-defanging-an-ip-address](https://github.com/avi7410/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/avi7410/LeetCode/tree/master/1651-shuffle-string) |
 | [1764-maximum-repeating-substring](https://github.com/avi7410/LeetCode/tree/master/1764-maximum-repeating-substring) |
