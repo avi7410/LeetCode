@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avi7410/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/avi7410/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/avi7410/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/avi7410/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/avi7410/LeetCode/tree/master/0268-missing-number) |
@@ -105,6 +106,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/avi7410/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/avi7410/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/avi7410/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/avi7410/LeetCode/tree/master/0125-valid-palindrome) |
@@ -180,6 +182,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/avi7410/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/avi7410/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/avi7410/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/avi7410/LeetCode/tree/master/0189-rotate-array) |
