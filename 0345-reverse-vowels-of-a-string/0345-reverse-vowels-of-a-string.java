@@ -1,24 +1,35 @@
 class Solution {
     public String reverseVowels(String s) {
         StringBuilder ans = new StringBuilder();
-        StringBuilder vowel = new StringBuilder();
         for(int i = 0; i < s.length(); i++){
-            char ch = s.charAt(i);
-            ans.append(ch);
-            if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o'|| ch == 'u' || ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O'|| ch == 'U' ){
-                vowel.append(ch);
-            }
+            ans.append(s.charAt(i));
         }
-        vowel.reverse();
-        int idx = 0;
-        for(int i = 0; i < s.length(); i++){
-            char ch = s.charAt(i);
-            if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o'|| ch == 'u' || ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O'|| ch == 'U' ){
-                ans.setCharAt(i, vowel.charAt(idx));
-                idx++;
+        int l = 0;
+        int r = s.length()-1;
+        while(l < r){
+            if(! (isVowel(s.charAt(l)))){
+                l++;
             }
-            
+            if(! (isVowel(s.charAt(r)))){
+                r--;
+            }
+            if((isVowel(s.charAt(r))) && (isVowel(s.charAt(l)))){
+                swapVowel(ans, r, l);
+                l++;
+                r--;
+            }
         }
         return ans.toString();
+    }
+    public boolean isVowel(char ch ){
+        if(ch == 'a' || ch == 'e' || ch == 'i' || ch =='o' || ch =='u' || ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U'){
+            return true;
+        }
+        return false;
+    }
+    public void swapVowel(StringBuilder sb, int a, int b){
+        char temp = sb.charAt(a);
+        sb.setCharAt(a, sb.charAt(b));
+        sb.setCharAt(b, temp);
     }
 }
