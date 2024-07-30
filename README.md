@@ -28,6 +28,7 @@
 | [0485-max-consecutive-ones](https://github.com/avi7410/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/avi7410/LeetCode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/avi7410/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/avi7410/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/avi7410/LeetCode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/avi7410/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/avi7410/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -217,6 +218,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/avi7410/LeetCode/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/avi7410/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/avi7410/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avi7410/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
