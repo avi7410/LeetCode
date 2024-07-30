@@ -1,18 +1,15 @@
 class Solution {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
-        List<Integer> al = new ArrayList<Integer>();
-        al.add(0);
-        for(int i : flowerbed){
-            al.add(i);
-        }
-        al.add(0);
-        for(int i = 1; i < al.size()-1; i++){
-            if(al.get(i-1) == 0 && al.get(i) == 0 && al.get(i+1) == 0){
-                i++;
-                n--;
+        for (int i = 0; i < flowerbed.length; i += 2){
+            if(flowerbed[i] == 0){
+                if(i == (flowerbed.length-1) || flowerbed[i+1]==0){
+                    n--;
+                }
+                else{
+                    i++;
+                }
             }
         }
-        if(n <= 0) return true;
-        return false;
+        return n <= 0;
     }
 }
