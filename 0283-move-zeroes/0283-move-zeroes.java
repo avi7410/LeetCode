@@ -1,17 +1,15 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int idx = 0; 
+        int[] temp = Arrays.copyOf(nums, nums.length);
+        int idx = 0;
         for(int i = 0; i < nums.length; i++){
-            if (nums[i] != 0){
-                swap(nums, idx, i);
+            if(temp[i] != 0){
+                nums[idx] = temp[i];
                 idx++;
             }
         }
+        for(int i = idx; i < nums.length; i++){
+            nums[i] = 0;
+        }
         return;
-    }
-    public void swap (int[] arr,int s,int e){
-        int temp = arr[s];
-        arr[s] = arr[e];
-        arr[e] = temp;
-    }
-}
+}}
