@@ -121,6 +121,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/avi7410/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/avi7410/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avi7410/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/avi7410/LeetCode/tree/master/0392-is-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/avi7410/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/avi7410/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/avi7410/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -169,6 +170,7 @@
 | [0287-find-the-duplicate-number](https://github.com/avi7410/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/avi7410/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avi7410/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/avi7410/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/avi7410/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/avi7410/LeetCode/tree/master/0861-flipping-an-image) |
 | [1168-duplicate-zeros](https://github.com/avi7410/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -283,6 +285,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/avi7410/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/avi7410/LeetCode/tree/master/1013-fibonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/avi7410/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Divide and Conquer
