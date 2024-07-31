@@ -15,6 +15,7 @@
 | [0073-set-matrix-zeroes](https://github.com/avi7410/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/avi7410/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/avi7410/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/avi7410/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/avi7410/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/avi7410/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avi7410/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -163,6 +164,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avi7410/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/avi7410/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/avi7410/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/avi7410/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/avi7410/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/avi7410/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avi7410/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/avi7410/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/avi7410/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avi7410/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/avi7410/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/avi7410/LeetCode/tree/master/0645-set-mismatch) |
