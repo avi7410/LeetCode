@@ -83,6 +83,7 @@
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/avi7410/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/avi7410/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/avi7410/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/avi7410/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/avi7410/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/avi7410/LeetCode/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/avi7410/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -229,6 +230,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/avi7410/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/avi7410/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/avi7410/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/avi7410/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/avi7410/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Greedy
 |  |
