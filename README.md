@@ -49,6 +49,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/avi7410/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/avi7410/LeetCode/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/avi7410/LeetCode/tree/master/0932-monotonic-array) |
+| [0941-sort-array-by-parity](https://github.com/avi7410/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0981-delete-columns-to-make-sorted](https://github.com/avi7410/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/avi7410/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/avi7410/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -195,6 +196,7 @@
 | [0455-assign-cookies](https://github.com/avi7410/LeetCode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/avi7410/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/avi7410/LeetCode/tree/master/0861-flipping-an-image) |
+| [0941-sort-array-by-parity](https://github.com/avi7410/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/avi7410/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/avi7410/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/avi7410/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -295,6 +297,7 @@
 | [0561-array-partition](https://github.com/avi7410/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avi7410/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/avi7410/LeetCode/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/avi7410/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/avi7410/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/avi7410/LeetCode/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avi7410/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
