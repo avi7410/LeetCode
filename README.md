@@ -78,6 +78,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avi7410/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2181-smallest-index-with-equal-value](https://github.com/avi7410/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/avi7410/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/avi7410/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/avi7410/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/avi7410/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/avi7410/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -345,4 +346,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/avi7410/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/avi7410/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
