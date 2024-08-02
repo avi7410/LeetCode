@@ -1,6 +1,6 @@
 class Solution {
     public int largestPerimeter(int[] nums) {
-        insertion_sort(nums);
+        Arrays.sort(nums);
         for(int i=nums.length-1; i>=2; i--){
             int a = nums[i];
             int b = nums[i-1];
