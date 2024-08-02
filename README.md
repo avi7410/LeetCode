@@ -36,6 +36,7 @@
 | [0455-assign-cookies](https://github.com/avi7410/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/avi7410/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/avi7410/LeetCode/tree/master/0495-teemo-attacking) |
+| [0561-array-partition](https://github.com/avi7410/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/avi7410/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/avi7410/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/avi7410/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -246,6 +247,7 @@
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/avi7410/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/avi7410/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/avi7410/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/avi7410/LeetCode/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/avi7410/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/avi7410/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -288,6 +290,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/avi7410/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/avi7410/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/avi7410/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/avi7410/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/avi7410/LeetCode/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/avi7410/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/avi7410/LeetCode/tree/master/1137-height-checker) |
@@ -307,6 +310,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/avi7410/LeetCode/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/avi7410/LeetCode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/avi7410/LeetCode/tree/master/1137-height-checker) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/avi7410/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 ## String Matching
