@@ -1,9 +1,12 @@
 class Solution {
     public boolean canBeEqual(int[] target, int[] arr) {
-        Arrays.sort(target);
-        Arrays.sort(arr);
+        int[] temp = new int[1001];
         for(int i = 0; i < arr.length; i++){
-            if(target[i] != arr[i]){
+            temp[target[i]] += 1;
+        }
+        for(int i = 0; i < arr.length; i++){
+            temp[arr[i]] -= 1;
+            if(temp[arr[i]] < 0){
                 return false;
             }
         }
