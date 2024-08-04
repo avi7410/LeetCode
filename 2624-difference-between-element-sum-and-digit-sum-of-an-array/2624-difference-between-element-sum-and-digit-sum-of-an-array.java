@@ -9,7 +9,8 @@ class Solution {
         return Math.abs(elementSum - digitSum);
     }
     private int helper (int num, int sum){
-        if(num <= 0){
+        if(num <= 9){
+            sum += num;
             return sum;
         }
         sum += num % 10;
