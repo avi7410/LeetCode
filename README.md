@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/avi7410/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/avi7410/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/avi7410/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/avi7410/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/avi7410/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/avi7410/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/avi7410/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -299,6 +300,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/avi7410/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/avi7410/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/avi7410/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/avi7410/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/avi7410/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avi7410/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/avi7410/LeetCode/tree/master/0414-third-maximum-number) |
@@ -329,6 +331,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/avi7410/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/avi7410/LeetCode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/avi7410/LeetCode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/avi7410/LeetCode/tree/master/1137-height-checker) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/avi7410/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
