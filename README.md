@@ -89,6 +89,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/avi7410/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/avi7410/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/avi7410/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/avi7410/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/avi7410/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/avi7410/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/avi7410/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -253,6 +254,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/avi7410/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/avi7410/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/avi7410/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/avi7410/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/avi7410/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/avi7410/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Greedy
