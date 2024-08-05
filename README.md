@@ -102,6 +102,7 @@
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/avi7410/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/avi7410/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/avi7410/LeetCode/tree/master/3429-special-array-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/avi7410/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/avi7410/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
@@ -239,6 +240,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/avi7410/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/avi7410/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avi7410/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/avi7410/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Math
 |  |
 | ------- |
