@@ -85,6 +85,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avi7410/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/avi7410/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avi7410/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/avi7410/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/avi7410/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/avi7410/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/avi7410/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -136,6 +137,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/avi7410/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/avi7410/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/avi7410/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/avi7410/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/avi7410/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/avi7410/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avi7410/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/avi7410/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/avi7410/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/avi7410/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/avi7410/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -337,6 +340,7 @@
 | [0561-array-partition](https://github.com/avi7410/LeetCode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/avi7410/LeetCode/tree/master/1137-height-checker) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/avi7410/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/avi7410/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String Matching
 |  |
 | ------- |
