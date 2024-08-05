@@ -6,18 +6,12 @@ class Solution {
         int bottom = -1; // max of i;
         for(int i = 0; i < grid.length; i++){
             for(int j = 0; j < grid[i].length; j++){
-                if(grid[i][j] == 1){if(i < top){
-                    top = i;
+                if(grid[i][j] == 1){
+                    top = Math.min(top, i);
+                    left = Math.min(left, j);
+                    right = Math.max(right, j);
+                    bottom = Math.max(bottom, i);
                 }
-                if(i > bottom){
-                    bottom = i;
-                }
-                if(j < left){
-                    left = j;
-                }
-                if(j > right){
-                    right = j;
-                }}
             }
         }
         return (bottom - top + 1) * (right - left + 1);
