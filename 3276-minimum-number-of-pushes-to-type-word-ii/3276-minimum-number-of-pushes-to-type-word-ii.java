@@ -7,18 +7,11 @@ class Solution {
         }
         Arrays.sort(charactersFreq, Collections.reverseOrder());
         int result = 0;
-        int factor = 1;
-        int count = 0;
         for(int i = 0; i < charactersFreq.length; i++){
             if(charactersFreq[i] == 0){
                 break;
             }
-            result += charactersFreq[i] * factor;
-            count++;
-            if(count == 8){
-                factor++;
-                count = 0;
-            }
+            result += charactersFreq[i] * ((i / 8) + 1);
         }
         return result;
     }
