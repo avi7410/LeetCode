@@ -1,7 +1,6 @@
 class Solution {
     public int minimumPushes(String word) {
         int[] charactersFreq = new int[26];
-        Arrays.fill(charactersFreq, 0);
         for(int i = 0; i < word.length(); i++){
             charactersFreq[word.charAt(i) - 'a']++;
         }
