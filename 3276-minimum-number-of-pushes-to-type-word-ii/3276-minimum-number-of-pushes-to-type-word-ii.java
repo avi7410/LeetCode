@@ -1,17 +1,23 @@
 class Solution {
     public int minimumPushes(String word) {
-        Integer[] charactersFreq = new Integer[26];
+        int[] charactersFreq = new int[26];
         Arrays.fill(charactersFreq, 0);
         for(int i = 0; i < word.length(); i++){
-            charactersFreq[word.charAt(i) - 'a']+= 1;
+            charactersFreq[word.charAt(i) - 'a']++;
         }
-        Arrays.sort(charactersFreq, Collections.reverseOrder());
+        Arrays.sort(charactersFreq);
         int result = 0;
-        for(int i = 0; i < charactersFreq.length; i++){
-            if(charactersFreq[i] == 0){
-                break;
+        int idx = charactersFreq.length-1;
+        int count = 0;
+        int factor = 1;
+        while(idx >= 0 && charactersFreq[idx] != 0){
+            result += charactersFreq[idx] * factor;
+            idx--;
+            count++;
+            if(count == 8){
+                factor++;
+                count = 0;
             }
-            result += charactersFreq[i] * ((i / 8) + 1);
         }
         return result;
     }
