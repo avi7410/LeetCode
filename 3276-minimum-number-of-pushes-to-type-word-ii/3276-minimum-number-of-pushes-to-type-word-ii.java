@@ -7,7 +7,7 @@ class Solution {
         }
         Arrays.sort(charactersFreq);
         int result = 0;
-        int idx = charactersFreq.length-1;
+        int idx = 25;
         int count = 0;
         int factor = 1;
         while(idx >= 0 && charactersFreq[idx] != 0){
