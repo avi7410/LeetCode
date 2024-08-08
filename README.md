@@ -169,6 +169,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/avi7410/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/avi7410/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/avi7410/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/avi7410/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/avi7410/LeetCode/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/avi7410/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1764-maximum-repeating-substring](https://github.com/avi7410/LeetCode/tree/master/1764-maximum-repeating-substring) |
@@ -410,6 +411,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/avi7410/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/avi7410/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/avi7410/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Backtracking
 |  |
