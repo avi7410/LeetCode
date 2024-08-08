@@ -78,6 +78,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/avi7410/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/avi7410/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/avi7410/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/avi7410/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/avi7410/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avi7410/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/avi7410/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -142,6 +143,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/avi7410/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/avi7410/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/avi7410/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/avi7410/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/avi7410/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/avi7410/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/avi7410/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -227,6 +229,7 @@
 | [1168-duplicate-zeros](https://github.com/avi7410/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/avi7410/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/avi7410/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/avi7410/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/avi7410/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/avi7410/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/avi7410/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -345,6 +348,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/avi7410/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/avi7410/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/avi7410/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/avi7410/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avi7410/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/avi7410/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/avi7410/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
