@@ -95,6 +95,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/avi7410/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/avi7410/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/avi7410/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avi7410/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/avi7410/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/avi7410/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/avi7410/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -359,6 +360,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/avi7410/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/avi7410/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avi7410/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avi7410/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/avi7410/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/avi7410/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Interactive
