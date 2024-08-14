@@ -13,6 +13,7 @@
 | [0040-combination-sum-ii](https://github.com/avi7410/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/avi7410/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/avi7410/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/avi7410/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/avi7410/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/avi7410/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/avi7410/LeetCode/tree/master/0066-plus-one) |
@@ -434,4 +435,5 @@
 | [0039-combination-sum](https://github.com/avi7410/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/avi7410/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/avi7410/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/avi7410/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
