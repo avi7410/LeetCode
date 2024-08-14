@@ -6,6 +6,6 @@ class Solution {
             reverseX = (reverseX * 10) + (x % 10);
             x /= 10;
         }
-        return (originalX == reverseX) ? (true) : (false);
+        return originalX == reverseX;
     }
 }
