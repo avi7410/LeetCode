@@ -55,6 +55,7 @@
 | [0861-flipping-an-image](https://github.com/avi7410/LeetCode/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/avi7410/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avi7410/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/avi7410/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/avi7410/LeetCode/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/avi7410/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/avi7410/LeetCode/tree/master/0932-monotonic-array) |
@@ -307,6 +308,7 @@
 | [0455-assign-cookies](https://github.com/avi7410/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/avi7410/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/avi7410/LeetCode/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/avi7410/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/avi7410/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/avi7410/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avi7410/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
