@@ -127,6 +127,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/avi7410/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/avi7410/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/avi7410/LeetCode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/avi7410/LeetCode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/avi7410/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/avi7410/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -181,6 +182,7 @@
 | [0344-reverse-string](https://github.com/avi7410/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avi7410/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/avi7410/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/avi7410/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/avi7410/LeetCode/tree/master/0443-string-compression) |
 | [0551-student-attendance-record-i](https://github.com/avi7410/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/avi7410/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -299,6 +301,7 @@
 | [0326-power-of-three](https://github.com/avi7410/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avi7410/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/avi7410/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/avi7410/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/avi7410/LeetCode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avi7410/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/avi7410/LeetCode/tree/master/0870-magic-squares-in-grid) |
