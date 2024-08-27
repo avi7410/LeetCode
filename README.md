@@ -216,6 +216,7 @@
 | [2365-percentage-of-letter-in-string](https://github.com/avi7410/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/avi7410/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/avi7410/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/avi7410/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2881-split-strings-by-separator](https://github.com/avi7410/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/avi7410/LeetCode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/avi7410/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
