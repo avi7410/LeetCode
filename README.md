@@ -127,6 +127,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/avi7410/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/avi7410/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/avi7410/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/avi7410/LeetCode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/avi7410/LeetCode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/avi7410/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -300,6 +301,7 @@
 | [0069-sqrtx](https://github.com/avi7410/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/avi7410/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/avi7410/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/avi7410/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/avi7410/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/avi7410/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/avi7410/LeetCode/tree/master/0326-power-of-three) |
@@ -478,4 +480,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/avi7410/LeetCode/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/avi7410/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
