@@ -116,6 +116,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/avi7410/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/avi7410/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/avi7410/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/avi7410/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3194-find-words-containing-character](https://github.com/avi7410/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/avi7410/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/avi7410/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
