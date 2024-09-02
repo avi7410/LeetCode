@@ -99,6 +99,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avi7410/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/avi7410/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/avi7410/LeetCode/tree/master/1944-truncate-sentence) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avi7410/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avi7410/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/avi7410/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avi7410/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -144,6 +145,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/avi7410/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/avi7410/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/avi7410/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avi7410/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/avi7410/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avi7410/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/avi7410/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -237,6 +239,7 @@
 | [0238-product-of-array-except-self](https://github.com/avi7410/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/avi7410/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/avi7410/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avi7410/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Two Pointers
 |  |
 | ------- |
@@ -372,6 +375,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/avi7410/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/avi7410/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/avi7410/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avi7410/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
 | ------- |
