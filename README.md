@@ -26,6 +26,7 @@
 | [0088-merge-sorted-array](https://github.com/avi7410/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avi7410/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/avi7410/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/avi7410/LeetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/avi7410/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/avi7410/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avi7410/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -340,6 +341,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/avi7410/LeetCode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/avi7410/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/avi7410/LeetCode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/avi7410/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/avi7410/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/avi7410/LeetCode/tree/master/0561-array-partition) |
