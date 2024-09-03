@@ -146,6 +146,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/avi7410/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/avi7410/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avi7410/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/avi7410/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/avi7410/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avi7410/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/avi7410/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -217,6 +218,7 @@
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/avi7410/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1944-truncate-sentence](https://github.com/avi7410/LeetCode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/avi7410/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/avi7410/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/avi7410/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/avi7410/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avi7410/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
