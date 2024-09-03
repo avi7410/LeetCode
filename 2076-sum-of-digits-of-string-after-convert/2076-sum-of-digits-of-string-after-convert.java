@@ -6,7 +6,6 @@ class Solution {
             num += transform(temp, 1);
         }
         k--;
-        System.out.println(num);
         return transform(num, k);
         
     }
