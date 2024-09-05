@@ -464,6 +464,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/avi7410/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/avi7410/LeetCode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/avi7410/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/avi7410/LeetCode/tree/master/0326-power-of-three) |
@@ -506,4 +507,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/avi7410/LeetCode/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/avi7410/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
