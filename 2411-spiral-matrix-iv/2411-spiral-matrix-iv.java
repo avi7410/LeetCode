@@ -72,9 +72,6 @@ class Solution {
         left++;
         }
         }
-        for(int[] arrs : arr){
-            System.out.println(Arrays.toString(arrs));
-        }
         return arr;
     }
 }
