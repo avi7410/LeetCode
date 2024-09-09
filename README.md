@@ -116,6 +116,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/avi7410/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/avi7410/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/avi7410/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2411-spiral-matrix-iv](https://github.com/avi7410/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/avi7410/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/avi7410/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/avi7410/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -153,6 +154,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avi7410/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/avi7410/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/avi7410/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2411-spiral-matrix-iv](https://github.com/avi7410/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2886-faulty-keyboard](https://github.com/avi7410/LeetCode/tree/master/2886-faulty-keyboard) |
 ## Hash Table
 |  |
@@ -316,6 +318,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/avi7410/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avi7410/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/avi7410/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/avi7410/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/avi7410/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Math
 |  |
@@ -527,4 +530,5 @@
 | [0206-reverse-linked-list](https://github.com/avi7410/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/avi7410/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/avi7410/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/avi7410/LeetCode/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
