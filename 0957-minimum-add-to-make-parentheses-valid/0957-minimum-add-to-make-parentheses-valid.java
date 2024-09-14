@@ -6,6 +6,7 @@ class Solution {
         while(idx < s.length()){
             char ch = s.charAt(idx);
             if(ch == '('){
+                miss++;
                 stk.push(')');
             }
             else if(stk.empty()){
@@ -13,12 +14,9 @@ class Solution {
             }
             else{
                 stk.pop();
+                miss--;
             }
             idx++;
-        }
-        while(!stk.empty()){
-            stk.pop();
-            miss++;
         }
         return miss;
     }
