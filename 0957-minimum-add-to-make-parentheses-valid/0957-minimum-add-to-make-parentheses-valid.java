@@ -3,8 +3,7 @@ class Solution {
         Stack<Character> stk = new Stack<>();
         int idx = 0;
         int miss = 0;
-        while(idx < s.length()){
-            char ch = s.charAt(idx);
+        for(char ch : s.toCharArray()){
             if(ch == '('){
                 miss++;
                 stk.push(')');
