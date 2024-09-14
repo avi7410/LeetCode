@@ -212,6 +212,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/avi7410/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/avi7410/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/avi7410/LeetCode/tree/master/0742-to-lower-case) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/avi7410/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/avi7410/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/avi7410/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/avi7410/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -370,6 +371,7 @@
 | [0605-can-place-flowers](https://github.com/avi7410/LeetCode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/avi7410/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/avi7410/LeetCode/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/avi7410/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/avi7410/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/avi7410/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avi7410/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -523,6 +525,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/avi7410/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/avi7410/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/avi7410/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |
