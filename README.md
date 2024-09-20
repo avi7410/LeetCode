@@ -218,6 +218,7 @@
 | [0742-to-lower-case](https://github.com/avi7410/LeetCode/tree/master/0742-to-lower-case) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/avi7410/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/avi7410/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/avi7410/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/avi7410/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/avi7410/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/avi7410/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -536,6 +537,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/avi7410/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/avi7410/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/avi7410/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/avi7410/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
 | ------- |
