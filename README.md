@@ -123,6 +123,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/avi7410/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/avi7410/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/avi7410/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2756-buy-two-chocolates](https://github.com/avi7410/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/avi7410/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/avi7410/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/avi7410/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -385,6 +386,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/avi7410/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/avi7410/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avi7410/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2756-buy-two-chocolates](https://github.com/avi7410/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/avi7410/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -451,6 +453,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avi7410/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avi7410/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/avi7410/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2756-buy-two-chocolates](https://github.com/avi7410/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/avi7410/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Interactive
 |  |
