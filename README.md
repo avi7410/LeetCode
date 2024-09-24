@@ -103,6 +103,7 @@
 | [1833-find-the-highest-altitude](https://github.com/avi7410/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avi7410/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/avi7410/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/avi7410/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/avi7410/LeetCode/tree/master/1944-truncate-sentence) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avi7410/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avi7410/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -385,6 +386,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/avi7410/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/avi7410/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/avi7410/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/avi7410/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avi7410/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2756-buy-two-chocolates](https://github.com/avi7410/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/avi7410/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
