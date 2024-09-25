@@ -303,6 +303,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/avi7410/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/avi7410/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/avi7410/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/avi7410/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/avi7410/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
@@ -566,6 +567,7 @@
 | [0206-reverse-linked-list](https://github.com/avi7410/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/avi7410/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/avi7410/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/avi7410/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/avi7410/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/avi7410/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Merge Sort
