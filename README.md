@@ -566,6 +566,7 @@
 | [0148-sort-list](https://github.com/avi7410/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/avi7410/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/avi7410/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/avi7410/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/avi7410/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/avi7410/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/avi7410/LeetCode/tree/master/2411-spiral-matrix-iv) |
