@@ -305,6 +305,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/avi7410/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/avi7410/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/avi7410/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/avi7410/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -546,6 +547,7 @@
 | [0234-palindrome-linked-list](https://github.com/avi7410/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/avi7410/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/avi7410/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/avi7410/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/avi7410/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
 |  |
@@ -569,6 +571,7 @@
 | [0328-odd-even-linked-list](https://github.com/avi7410/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/avi7410/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/avi7410/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/avi7410/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/avi7410/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/avi7410/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Merge Sort
