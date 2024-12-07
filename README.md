@@ -586,4 +586,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/avi7410/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/avi7410/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
